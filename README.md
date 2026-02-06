@@ -1,4 +1,5 @@
-Socio-Economic and Academic Relationship Analysis
+## Socio-Economic and Academic Relationship Analysis
+
 📌 Project Overview
 
 This project focuses on analyzing the relationship between students’ academic performance, socio-economic background, technical skills, extracurricular participation, and expected salary. Using exploratory data analysis (EDA), the project aims to uncover patterns and insights that can support better academic planning and career guidance for students.
